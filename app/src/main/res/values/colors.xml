@@ -8,6 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="brown">#4A312A</color>
+    <color name="tan_white">#A8A19E</color>
 
     <!-- Primary color of the app (shown in the app bar) -->
     <color name="primary_color">#4A312A</color>
